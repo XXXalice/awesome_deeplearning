@@ -1,0 +1,2 @@
+# awesome_deeplearning
+基本jupyterで色々やります
